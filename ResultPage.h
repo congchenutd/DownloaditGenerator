@@ -14,7 +14,6 @@ public:
 
 private slots:
   void generateCommand(bool dryRun);
-  void onCopy();
 
 private:
   Ui::ResultPage ui;

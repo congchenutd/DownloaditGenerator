@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>156</height>
+    <width>417</width>
+    <height>276</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -28,13 +28,6 @@
     <widget class="QCheckBox" name="cbDryRun">
      <property name="text">
       <string>Dry run</string>
-     </property>
-    </widget>
-   </item>
-   <item row="2" column="1">
-    <widget class="QPushButton" name="btCopy">
-     <property name="text">
-      <string>Copy</string>
      </property>
     </widget>
    </item>

@@ -35,6 +35,5 @@ HEADERS += \
     ResultPage.h
 
 FORMS += \
-        Widget.ui \
     ConfigPage.ui \
     ResultPage.ui
